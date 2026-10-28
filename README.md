@@ -27,3 +27,7 @@ In this folder run `python3 -m http.server 8000`, then open http://localhost:800
 ## Other hosts
 Any static host works the same way (Netlify Drop, Cloudflare Pages, a university web server):
 upload the folder as-is.
+
+## License
+
+Code is released under the [MIT License](LICENSE). The campus model in `campus-model.txt` is derived from the Missouri State University SketchUp model and remains the university's.
